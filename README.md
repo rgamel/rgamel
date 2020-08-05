@@ -1,4 +1,10 @@
 ### Hi there 👋
+## Currently learning:
+- Typescript
+- React Context
+- Go
+- Fun new CSS tricks
+
 
 <!--
 **rgamel/rgamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
