@@ -1,9 +1,16 @@
-### Hi there 👋
-## Currently learning:
+### 👋 Hi there
+I'm Ryan.
+
+## 🔭 I’m currently working on:
+- A Supply Chain Digital Twin application for a global client
+
+## 💪 Strengths:
 - Typescript
-- React Context
+- React (+hooks/Context)
+- Functional Programming
+
+## 🌱 I’m currently learning:
 - Go
-- Fun new CSS tricks
 
 
 <!--
