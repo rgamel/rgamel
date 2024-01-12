@@ -2,7 +2,7 @@
 I'm Ryan.
 
 ## 🔭 I’m currently working on:
-- A Supply Chain Digital Twin application for a global client
+- Seed Production workflows for a global client
 
 ## 💪 Strengths:
 - Typescript
